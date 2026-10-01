@@ -18,7 +18,7 @@ https://bus-complaint-ai.onrender.com
 ### Backend API
 
 **FastAPI API:**  
-https://bus-complaint-ai-api.onrender.com
+https://bus-complaint-ai-api.onrender.com/api/health
 
 ### API Documentation
 
