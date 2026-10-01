@@ -1,0 +1,49 @@
+id,complaint,department
+1,"Bus arrived forty minutes late and I missed my class",Operations
+2,"The bus did not follow the timetable this morning",Operations
+3,"Route 18 skipped three scheduled stops",Operations
+4,"The driver took a different route without any announcement",Operations
+5,"Buses on the airport route are overcrowded every evening",Operations
+6,"The bus service was cancelled without prior notice",Operations
+7,"The bus left before the departure time",Operations
+8,"There are not enough buses during peak hours",Operations
+9,"The driver was driving dangerously and overspeeding",Safety
+10,"The bus driver ignored a red light",Safety
+11,"I felt unsafe because the driver was using a mobile phone",Safety
+12,"A passenger was harassed and the driver did nothing",Safety
+13,"The emergency exit is blocked by luggage",Safety
+14,"The bus has no working seat belts",Safety
+15,"The driver stopped in the middle of traffic to argue",Safety
+16,"There was a serious accident near the central bus stand",Safety
+17,"My monthly bus pass was charged twice",Billing
+18,"The ticket machine deducted money but printed no ticket",Billing
+19,"I was charged the wrong fare for a student pass",Billing
+20,"Please refund the amount taken for a cancelled ticket",Billing
+21,"The online payment failed but money was debited",Billing
+22,"The conductor gave incorrect change",Billing
+23,"My smart card balance did not update after recharge",Billing
+24,"Why has the fare increased on this route",Billing
+25,"The bus stop shelter is broken and needs repair",Infrastructure
+26,"The route sign at the bus stop is missing",Infrastructure
+27,"There is no ramp for wheelchair passengers at the stop",Infrastructure
+28,"The pavement near the bus station is damaged",Infrastructure
+29,"The bus stand has no lights at night",Infrastructure
+30,"The shelter roof leaks whenever it rains",Infrastructure
+31,"Please install a bench at the crowded bus stop",Infrastructure
+32,"The bus stop name board is difficult to read",Infrastructure
+33,"The bus seats are torn and uncomfortable",Maintenance
+34,"Air conditioning has not worked for two weeks",Maintenance
+35,"The bus windows are broken",Maintenance
+36,"The vehicle makes a loud engine noise",Maintenance
+37,"The doors do not close properly",Maintenance
+38,"The bus has a flat tyre and is still in service",Maintenance
+39,"The lights inside the bus are not working",Maintenance
+40,"The bus is dirty and has not been cleaned",Maintenance
+41,"The conductor was rude when I asked for help",Customer Service
+42,"I cannot reach anyone on the helpline",Customer Service
+43,"Staff refused to answer my complaint",Customer Service
+44,"The information on the website is confusing",Customer Service
+45,"I want to report poor behaviour by the ticket inspector",Customer Service
+46,"Nobody replied to my email about the lost item",Customer Service
+47,"Please tell me how to file a lost property report",Customer Service
+48,"The help desk gave me incorrect information",Customer Service

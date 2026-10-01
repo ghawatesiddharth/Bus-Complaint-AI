@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+dist/
+.DS_Store
+
+# Keep trained model artifact in Git
+# backend/artifacts/
+
+# Raw review dataset contains uncleaned identifying data
+backend/data/reviews.csv
