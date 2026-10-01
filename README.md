@@ -11,7 +11,7 @@ The system predicts the responsible department, estimates model confidence, dete
 ## 📑 Table of Contents
 
 - [Live Demo](#-live-demo)
-- [What is Bus Complaint AI?](#-what-is-Bus Complaint AI)
+- [What is Bus Complaint AI?](#-what-is-Bus-Complaint-AI-?)
 - [Key Features](#-key-features)
 - [Complaint Departments](#-complaint-departments)
 - [System Architecture](#️-system-architecture)
