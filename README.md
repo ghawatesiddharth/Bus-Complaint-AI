@@ -715,7 +715,7 @@ No open-source license has been specified for this repository. Unless a license 
 |---|---|
 | 💻 **GitHub** | https://github.com/ghawatesiddharth/Bus-Complaint-AI |
 | 🌐 **Live Application** | https://bus-complaint-ai.vercel.app |
-| 🤖 **Backend API** | https://bus-complaint-ai-api.onrender.com |
+| 🤖 **Backend API** | https://bus-complaint-ai-api.onrender.com/health |
 | 📚 **API Documentation** | https://bus-complaint-ai-api.onrender.com/docs |
 
 **Frontend:** Vercel · **Backend:** Render · **Source Code:** GitHub
