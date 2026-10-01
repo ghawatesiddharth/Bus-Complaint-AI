@@ -1,8 +1,8 @@
-# 🚌 TransitIQ — Bus Complaint AI
+# 🚌 Bus Complaint AI
 
 > An explainable NLP system that automatically routes passenger complaints to the department responsible for handling them.
 
-TransitIQ is a B-Tech academic Natural Language Processing project that combines a **FastAPI** backend, a **React + Vite** frontend, **TF-IDF** text representations, and a **Logistic Regression** classifier to analyze bus passenger complaints.
+Bus Complaint AI is a B-Tech academic Natural Language Processing project that combines a **FastAPI** backend, a **React + Vite** frontend, **TF-IDF** text representations, and a **Logistic Regression** classifier to analyze bus passenger complaints.
 
 The system predicts the responsible department, estimates model confidence, detects sentiment and urgency, identifies supporting keywords, and retrieves similar historical complaints.
 
@@ -11,7 +11,7 @@ The system predicts the responsible department, estimates model confidence, dete
 ## 📑 Table of Contents
 
 - [Live Demo](#-live-demo)
-- [What is TransitIQ?](#-what-is-transitiq)
+- [What is Bus Complaint AI?](#-what-is-Bus Complaint AI)
 - [Key Features](#-key-features)
 - [Complaint Departments](#-complaint-departments)
 - [System Architecture](#️-system-architecture)
@@ -47,9 +47,9 @@ The system predicts the responsible department, estimates model confidence, dete
 
 ---
 
-## 🎯 What is TransitIQ?
+## 🎯 What is Bus Complaint AI?
 
-TransitIQ is an intelligent bus complaint analysis system designed to help organize and route passenger complaints.
+Bus Complaint AI is an intelligent bus complaint analysis system designed to help organize and route passenger complaints.
 
 A passenger enters a complaint such as:
 
@@ -95,7 +95,7 @@ The goal is to demonstrate how Natural Language Processing and Machine Learning 
 
 ## 🏢 Complaint Departments
 
-TransitIQ currently classifies complaints into **six departments**.
+Bus Complaint AI currently classifies complaints into **six departments**.
 
 | Department | Typical Complaint Area |
 |---|---|
@@ -178,7 +178,7 @@ TransitIQ currently classifies complaints into **six departments**.
 
 ## 🤖 Machine Learning Pipeline
 
-TransitIQ uses a combined text-feature approach.
+Bus Complaint AI uses a combined text-feature approach.
 
 ### 1. Text Normalization
 Complaint text is normalized before feature extraction.
@@ -220,7 +220,7 @@ This sentiment component is intended for the current academic/demo scope.
 
 ## 🚨 Urgency Detection
 
-TransitIQ includes a rule-based urgency detection system with three levels.
+Bus Complaint AI includes a rule-based urgency detection system with three levels.
 
 ### 🔴 HIGH
 Examples of high-urgency indicators:
@@ -241,7 +241,7 @@ Complaints without high- or medium-urgency indicators are classified as low urge
 
 ## 🔍 Explainability
 
-TransitIQ does not return only a department label. The interface provides supporting information including:
+Bus Complaint AI does not return only a department label. The interface provides supporting information including:
 
 - Detected complaint keywords
 - Model confidence
@@ -442,7 +442,7 @@ Triggers model retraining using the configured training data.
 
 ## ☁️ Deployment
 
-TransitIQ uses separate hosting for the frontend and backend.
+Bus Complaint AI uses separate hosting for the frontend and backend.
 
 ```text
                          GitHub Repository
@@ -543,7 +543,7 @@ For a serious deployment, the project should use:
 
 ## ⚠️ Limitations
 
-TransitIQ is an academic NLP project, **not** a production-grade transit decision system.
+Bus Complaint AI is an academic NLP project, **not** a production-grade transit decision system.
 
 - Very small labeled classification dataset
 - Limited linguistic diversity
@@ -640,7 +640,7 @@ npm run dev
 
 ## 🎓 Academic Project Note
 
-TransitIQ was developed as a B-Tech academic project to demonstrate an end-to-end Natural Language Processing workflow.
+Bus Complaint AI was developed as a B-Tech academic project to demonstrate an end-to-end Natural Language Processing workflow.
 
 ```text
 Raw Complaint
@@ -660,7 +660,7 @@ User Interface
 
 ### 📌 Project Goals
 
-The main goals of TransitIQ are to demonstrate:
+The main goals of Bus Complaint AI are to demonstrate:
 
 - Natural Language Processing
 - Text classification
@@ -677,7 +677,7 @@ The main goals of TransitIQ are to demonstrate:
 
 ### ⭐ Project Summary
 
-TransitIQ demonstrates an end-to-end machine learning application that transforms raw passenger complaints into structured, explainable routing information.
+Bus Complaint AI demonstrates an end-to-end machine learning application that transforms raw passenger complaints into structured, explainable routing information.
 
 ```text
 Passenger Complaint
@@ -709,7 +709,7 @@ No open-source license has been specified for this repository. Unless a license 
 
 ## 👨‍💻 Project Links
 
-**TransitIQ — Bus Complaint AI** · Built as an academic B-Tech Natural Language Processing project.
+**Bus Complaint AI — Bus Complaint AI** · Built as an academic B-Tech Natural Language Processing project.
 
 | | |
 |---|---|
