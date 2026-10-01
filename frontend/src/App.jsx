@@ -18,7 +18,7 @@ import {
   XCircle,
 } from "lucide-react";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://bus-complaint-ai-api.onrender.com";
 
 const SAMPLE_COMPLAINTS = [
   "My bus was supposed to arrive at 8 PM but it arrived two hours late.",
